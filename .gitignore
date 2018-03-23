@@ -3,3 +3,4 @@
 .ipynb_checkpoints
 resources/coffee
 resources/credentials.json
+*.pyc
