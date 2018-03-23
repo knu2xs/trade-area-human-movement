@@ -1,0 +1,65 @@
+,alias,name
+0,OBJECTID,OBJECTID
+1,Store_Key,NationalStoreLocations_Local_St
+2,Audio,NationalStoreLocations_Local_Au
+3,Cameras,NationalStoreLocations_Local_Ca
+4,Cell Phones,NationalStoreLocations_Local_Ce
+5,Computers,NationalStoreLocations_Local_Co
+6,Games,NationalStoreLocations_Local_Ga
+7,Home Appliances,NationalStoreLocations_Local_Ho
+8,Music and Movies,NationalStoreLocations_Local_Mu
+9,TV and Video,NationalStoreLocations_Local_TV
+10,Grand Total,NationalStoreLocations_Local_Gr
+11,Address,NationalStoreLocations_Local_AD
+12,City,NationalStoreLocations_Local_CI
+13,State,NationalStoreLocations_Local__1
+14,Zipcode,NationalStoreLocations_Local_ZI
+15,Square Footage,NationalStoreLocations_Local_Sq
+16,Home Improvement,NationalStoreLocations_Local__2
+17,Store ID,NationalStoreLocations_Local__3
+18,Gas Attached,NationalStoreLocations_Local__4
+19,Pharmacy Attached,NationalStoreLocations_Local_Ph
+20,Inventory Value,NationalStoreLocations_Local_In
+21,Average Daily Sales,NationalStoreLocations_Local_Av
+22,Power,NationalStoreLocations_Local_Po
+23,Accessible,NationalStoreLocations_Local_Ac
+24,Pharmacy Available,NationalStoreLocations_Local__5
+25,Gas Available,NationalStoreLocations_Local__6
+26,Inventory Damage,NationalStoreLocations_Local__7
+27,Notes,NationalStoreLocations_Local_No
+28,Manager,NationalStoreLocations_Local_Ma
+29,Phone Number,NationalStoreLocations_Local__8
+30,Status,NationalStoreLocations_Local__9
+31,Employees,NationalStoreLocations_Local_Em
+32,Population for Trade Area,TradeArea_EnrichLayer_REAL_COST
+33,Trade Area Drive Time,TradeArea_EnrichLayer_TIME
+34,2017 Total Population,TradeArea_EnrichLayer_populatio
+35,2017-2022 Growth/Yr: Population,TradeArea_EnrichLayer_populat_1
+36,2017 Population Density,TradeArea_EnrichLayer_populat_2
+37,2017 Dominant Tapestry Number,TradeArea_EnrichLayer_tapestryh
+38,2017 Dominant Tapestry Segment,TradeArea_EnrichLayer_tapestr_1
+39,2017 Dom Tapestry Segment Name,TradeArea_EnrichLayer_tapestr_2
+40,2017 Median Household Income,TradeArea_EnrichLayer_household
+41,2017 Median Age,TradeArea_EnrichLayer_F5yearinc
+42,2017 Total Households,TradeArea_EnrichLayer_househo_1
+43,Retail Goods,TradeArea_EnrichLayer_spendingt
+44,Total Retail Sales,TradeArea_EnrichLayer_retailmar
+45,Total Retail Sales Pot,TradeArea_EnrichLayer_retailm_1
+46,Total Retail: L/S,TradeArea_EnrichLayer_retailm_2
+47,2017 Median Disposable Income,TradeArea_EnrichLayer_disposabl
+48,Sales 2018,Sales_CY
+49,Sales 2017,Sales_CY1
+50,Sales 2016,Sales_CY2
+51,Shoes 2018,Shoes_CY
+52,Shoes 2017,Shoes_CY1
+53,Shoes 2016,Shoes_CY2
+54,Shoes 2015,Shoes_CY3
+55,Apparel 2018,Apparel_CY
+56,Apparel 2017,Apparel_CY1
+57,Apparel 2016,Apparel_CY2
+58,Sales R12,Sales_R12
+59,Operation Status,Ops_Status
+60,Lease Expiration Date,Lease_Ex_Date
+61,Name,f2
+62,POINT_X,POINT_X
+63,POINT_Y,POINT_Y
