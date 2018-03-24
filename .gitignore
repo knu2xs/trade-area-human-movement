@@ -4,3 +4,4 @@
 resources/coffee
 resources/credentials.json
 *.pyc
+demo_trips*
